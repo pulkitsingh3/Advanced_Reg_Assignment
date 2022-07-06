@@ -6,7 +6,6 @@
 * [Problem Statement](#general-information)
 * [Business Goal](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
